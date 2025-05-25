@@ -156,6 +156,38 @@ npm run dev
 
 <br/>
 
+## 📸 Screenshots
+
+<br/>
+
+**🏠 Home Page**     <br/>
+
+
+![Home Page.](https://github.com/user-attachments/assets/9cda4d58-94c5-46e8-b470-9789cee49feb)
+
+
+<br/>
+
+
+
+![](https://github.com/user-attachments/assets/3aaaee2e-70c5-421e-84c9-af9793a9cc2a)
+
+
+<br/>
+
+**🛒 Cart Page**
+
+![](https://github.com/user-attachments/assets/5cf8dc1d-d502-45a9-b791-0a245e11743d)
+
+<br/>
+
+**🚚 Place Order Page**
+
+![](https://github.com/user-attachments/assets/2e098109-6d9c-4bcf-bc7f-7596fa1f139c)
+
+
+
+
 ## 🙌 Future Enhancements
 
 • Add delivery partner dashboard
