@@ -139,7 +139,12 @@ JWT_SECRET=your_jwt_secret
 STRIPE_SECRET_KEY=your_stripe_secret
 ```
 
-4.) Start the development servers
+4.) Backend Setup
+
+To setup the backend, follow the instructions given in [Project Setup Guide.](https://github.com/moali007/MealDash/blob/master/How%20To%20Run%20Project.pdf)
+
+
+5.) Start the development servers
 ```
 # Start backend
 cd server
